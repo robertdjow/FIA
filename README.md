@@ -3,5 +3,5 @@ Esse projeto foi realizado no meu curso de pós graduação da FIA, onde pude de
 
 Foram usados dados públicos do Banco Central para a análise.
 
-Compartilho os arquivos bases com os tratamentos efetuados, o Jupyter notebook, a apresentação com todo contexto, análises, conclusões.
+Compartilho os arquivos bases com os tratamentos efetuados, o Jupyter notebook, a apresentação com todo contexto, análises e conclusões.
 
