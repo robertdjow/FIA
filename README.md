@@ -1,4 +1,4 @@
-# FIA
+# Modelo preditivo grupos de risco consórcio imóveis
 Esse projeto foi realizado no meu curso de pós graduação da FIA, onde pude desenvolver um modelo preditivo de grupos de risco de consórcio de imóveis.
 
 Foram usados dados públicos do Banco Central para a análise.
